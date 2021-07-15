@@ -1,6 +1,6 @@
 # iOSApp Game-Markets
 
-My last submission for Fundamental iOS Developer class in Dicoding academy. Build with SwiftUI 1.0 :D
+My last submission for Fundamental iOS Developer class in Dicoding academy. I build a brand new games category using RAWG API with SwiftUI.
 
 | App Preview  |
 | :---: |
